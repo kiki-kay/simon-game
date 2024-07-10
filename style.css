@@ -10,13 +10,11 @@ body {
     color: gold;
   }
 
-
 .container {
     display: block;
     width: 50%;
     margin: auto; 
 }
-
 
 .btn {
     margin: 25px;
